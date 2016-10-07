@@ -1,5 +1,3 @@
-
-
 /*access to canvas and get context out */
 const canvas = document.getElementById('tetris');
 const context = canvas.getContext('2d');
